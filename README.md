@@ -11,4 +11,8 @@ Leetcode activities
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/micrabom/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/micrabom/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
